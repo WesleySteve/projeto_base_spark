@@ -1,5 +1,7 @@
 # projeto_base_spark
 
+- Este projeto tem como objetivoo apresentar o necessário para iniciar um projeto utilizando a biblioteca spark
+
 ## Passos 
 
 - listar ambientes
